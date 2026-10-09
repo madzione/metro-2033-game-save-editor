@@ -1,0 +1,12 @@
+/target
+
+# Save games (personal data, not part of the repository)
+*_auto_save*
+*_save
+*.player
+*.bak
+/fixed
+/unpacked/
+
+# Name dictionary built from the game executable (copyrighted game data)
+metro_names.txt
