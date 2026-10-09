@@ -6,6 +6,8 @@
 > [below](#case-study-stuck-script-in-the-library)) without replaying the mission from the start.
 > It worked for me, but expect rough edges, and **always keep a backup of your save**.
 
+![](./screenshot.png)
+
 Inspect, edit and repack **Metro 2033 Redux** save games (`2033_auto_save`, …).
 A GUI (egui) and a CLI in one binary.
 
